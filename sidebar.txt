@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gia:home|Door43 (gia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gia|d43-gia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gia/archive/master.zip|d43-gia.zip]]
+
+**Recent Changes**
+{{changes>ns = gia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gia|Ethnologue data]]
+
